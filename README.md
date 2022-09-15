@@ -1,6 +1,6 @@
 
 
-## Hi! I'm Emily Jenifer 👻
+## Hi! I'm Emily Jenifer 🙃
 
 <div align="left">
   <a href="https://github.com/emsjenifer">
