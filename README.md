@@ -24,6 +24,7 @@
   <img alt="Emie-Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img alt="Emie-Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img alt="Emie-Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img alt="Emie-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ## How to reach me:
