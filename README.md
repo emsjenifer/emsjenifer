@@ -2,12 +2,6 @@
 
 ## Hi! I'm Emily Jenifer 🤍
 
-<div align="left">
-  <a href="https://github.com/emsjenifer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emsjenifer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emsjenifer&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 ## Tech skills
 
 <div style="display: inline_block"><br>
